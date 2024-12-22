@@ -1,4 +1,4 @@
-REGION          = "us-east-1"
+REGION          = "ap-south-1"
 PROJECT_NAME    = "ToDo-App"
 VPC_CIDR        = "10.0.0.0/16"
 PUB_SUB1_CIDR   = "10.0.1.0/24"
