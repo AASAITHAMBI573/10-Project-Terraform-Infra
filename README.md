@@ -70,8 +70,10 @@ type yes, and it will prompt you for permission or use --auto-approve in the com
 
 **This project contains Three GitHub repositories**
 
-➡️ [App Code] (https://github.com/piyushsachdeva/AppCode)
+➡️ [App Code] (https://github.com/AASAITHAMBI573/10-Project-AppCode.git)
 
-➡️ [Terraform code] (https://github.com/piyushsachdeva/10weeksofcloudops-week4-tf)
 
-➡️ [Manifest Repo] (https://github.com/piyushsachdeva/kube_manifest)
+➡️ [Terraform code] (https://github.com/AASAITHAMBI573/10-Project-Terraform-Infra.git)
+
+
+➡️ [Manifest Repo] (https://github.com/AASAITHAMBI573/10-Project-Kubernetes-Mainfest.git)
